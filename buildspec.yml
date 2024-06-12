@@ -11,5 +11,5 @@ phases:
       
 artifacts:
   files:
-    - target/test.jar
+    - target/UserProject-0.0.1-SNAPSHOT.jar
   discard-paths: yes
